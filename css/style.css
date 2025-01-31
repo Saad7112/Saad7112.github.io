@@ -193,6 +193,10 @@ body.light .blog .post-content .entry-header h3 a {
   color: #666;
 }
 
+body.light .blog .post-content .entry-header h5 a {
+  color: #666;
+}
+
 body.light .blog .page-link {
   color: #666;
   background-color: #eee;

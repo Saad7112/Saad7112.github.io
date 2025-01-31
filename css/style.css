@@ -764,7 +764,7 @@ body.light hr.separator {
   font-weight: 700;
 }
 
-.about .box-stats h5 {
+.about .box-stats h6 {
   position: relative;
   display: inline-block;
   margin: 0;

@@ -193,9 +193,6 @@ body.light .blog .post-content .entry-header h3 a {
   color: #666;
 }
 
-body.light .blog .post-content .entry-header h5 a {
-  color: #666;
-}
 
 body.light .blog .page-link {
   color: #666;
@@ -765,6 +762,15 @@ body.light hr.separator {
   margin: 0;
   font-size: 50px;
   font-weight: 700;
+}
+
+.about .box-stats h5 {
+  position: relative;
+  display: inline-block;
+  margin: 0;
+  font-size: 25px;
+  font-weight: 500;
+  color: #ffb400;
 }
 
 .about .box-stats h3:after {
